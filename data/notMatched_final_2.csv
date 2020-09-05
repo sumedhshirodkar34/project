@@ -1,0 +1,5 @@
+2012030221, not matched , coulmn name ,outcome, value ,"('home win OT', 'home win OTTT')"
+2012030223, not matched , coulmn name ,outcome, value ,"('away win REG', 'away win REGGGG')"
+2012030223, not matched , coulmn name ,venue, value ,"('Madison Square Garden', 'Madison Square GardenNN')"
+2012030314, not matched , coulmn name ,venue_link, value ,"('/api/v1/venues/null', '/api/v1/venues/nullQQQQ')"
+2012030314, not matched , coulmn name ,venue_time_zone_id, value ,"('America/New_York', 'AmericaNN/New_York')"
