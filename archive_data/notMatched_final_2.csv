@@ -1,0 +1,6 @@
+,ID,Coulmn_name,Value
+0,"(2012030221, 20122013)",outcome,"('home win OT', 'home win OTTT')"
+1,"(2012030223, 20122013)",outcome,"('away win REG', 'away win REGGGG')"
+2,"(2012030223, 20122013)",venue,"('Madison Square Garden', 'Madison Square GardenNN')"
+3,"(2012030314, 20122013)",venue_link,"('/api/v1/venues/null', '/api/v1/venues/nullQQQQ')"
+4,"(2012030314, 20122013)",venue_time_zone_id,"('America/New_York', 'AmericaNN/New_York')"

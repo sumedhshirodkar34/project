@@ -1,0 +1,5 @@
+2012030221,", not matched ,",home win OT,", with ,",home win OTTT,", for row ,",0,", and column ,",7,", coulmn ,",outcome,", value ,","('home win OT', 'home win OTTT')"
+2012030223,", not matched ,",away win REG,", with ,",away win REGGGG,", for row ,",0,", and column ,",7,", coulmn ,",outcome,", value ,","('away win REG', 'away win REGGGG')"
+2012030223,", not matched ,",Madison Square Garden,", with ,",Madison Square GardenNN,", for row ,",0,", and column ,",9,", coulmn ,",venue,", value ,","('Madison Square Garden', 'Madison Square GardenNN')"
+2012030314,", not matched ,",/api/v1/venues/null,", with ,",/api/v1/venues/nullQQQQ,", for row ,",0,", and column ,",10,", coulmn ,",venue_link,", value ,","('/api/v1/venues/null', '/api/v1/venues/nullQQQQ')"
+2012030314,", not matched ,",America/New_York,", with ,",AmericaNN/New_York,", for row ,",0,", and column ,",11,", coulmn ,",venue_time_zone_id,", value ,","('America/New_York', 'AmericaNN/New_York')"
